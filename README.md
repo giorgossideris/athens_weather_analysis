@@ -20,6 +20,9 @@ All the packages above can be installed using the `pip install` command-line com
 The data used can be found in the <code>data</code> folder. Specifically:
 * `data/hellinikon_noaa.csv`: was downloaded from [NOAA](https://www.ncdc.noaa.gov/cdo-web/search), and refer to the weather station of Hellinikon and the period 1955-2020.
 * `data/athens_hds.csv`: was downloaded from [HDS](https://data.hellenicdataservice.gr/dataset/66e1c19a-7b0e-456f-b465-b301a1130e3f), and refer to the weather station of Athens and the period 2010-2019.
+    * *License*: [CC-BY-SA 4.0 - Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+    * *Creator name*: National Observatory of Athens/meteo.gr
+    * *Title (as provided)*: athens.csv
 
 More detailed information about the datasets can be found within `weather_analysis.ipynb`.
 
